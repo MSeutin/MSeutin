@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**MSeutin/MSeutin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a Bachelor Degree in CS
 - 🌱 I’m currently learning Python, C++, Web Development
 - 👯 I’m looking to collaborate on open source Github projects (not yet)
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me via email: frenchmike@gmail.com
 - 😄 Pronouns: That's a weird question, I am a man.
 - ⚡ Fun fact: I started my CS degree at 48 years old.
--->
