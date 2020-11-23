@@ -1,4 +1,4 @@
-`LIBDIR = $(ARDUINOSW_DIR)/corelibs/libraries/Wire/src `
+
 
 ### Hi there 👋
 
