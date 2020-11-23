@@ -10,4 +10,4 @@
 - 😄 Some things I like: Brazilian Jiu-Jitsu, Chess, Tropical Sunsets.
 - ⚡ Fun fact: I started my CS degree at 48 years old.
 
-$\sqrt{3x^2-1}$
+$$\sqrt{3x^2-1}$$
