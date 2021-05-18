@@ -1,4 +1,41 @@
 
+- [ 1 ] Add Logo or Banner
+
+![Frenchmike,_Software_Engineer](https://user-images.githubusercontent.com/45352998/118595179-735a3580-b75f-11eb-9089-4901928ab231.png)
+
+
+
+
+- [ 2 ] Add Badges
+
+
+
+
+
+- [ 3 ] Short project Description
+
+
+
+
+
+
+
+- [ 4 ] Add GIG (optional)
+
+
+
+
+
+
+- [ 5 ] Installation & Usage
+
+
+
+
+
+
+
+- [ 6 ] Additional Info, Contribution (licence, donation etc)
 
 ### Hi there 👋
 
