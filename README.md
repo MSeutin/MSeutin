@@ -1,7 +1,7 @@
 
 - [ 1 ] Add Logo or Banner
 
-![Frenchmike,_Software_Engineer](https://user-images.githubusercontent.com/45352998/118595179-735a3580-b75f-11eb-9089-4901928ab231.png)
+![Frenchmike,_Software_Engineer](images/banner1.png)
 
 
 
