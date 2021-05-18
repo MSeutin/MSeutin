@@ -5,6 +5,7 @@
 
 - Step 2 - Add Badges
 
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSeutin&show_icons=true&theme=onedark)
 
 
 
