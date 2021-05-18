@@ -1,12 +1,9 @@
-
-- [ 1 ] Add Logo or Banner
+# How to organize a README.md
+- Step 1 - Add a logo or banner 
 
 ![Frenchmike,_Software_Engineer](images/banner1.png)
 
-
-
-
-- [ 2 ] Add Badges
+- Step 2 - Add Badges
 
 
 
